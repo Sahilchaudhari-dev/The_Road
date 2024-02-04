@@ -236,6 +236,7 @@ html {
   animation: drop-letters 5s 0.7s infinite;
 }
 
+
 @keyframes drop-letters {
   0% {
     transform: translateY(0);
